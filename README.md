@@ -36,6 +36,7 @@ Here’s your description with the elements presented normally:
 - Sans-serif: Inter & SF Arabic  
 - Serif: New York Medium  
 - Monospace: JetBrainsMono Nerd  
+- Emoji: Apple Color Emoji
 
 🖼️ **Icons & UI Elements**  
 - Icon Theme: Papirus Dark  
