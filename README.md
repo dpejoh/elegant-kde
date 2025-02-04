@@ -1,5 +1,7 @@
 # elegant-kde
 
+![showcase](./screenshot.png)
+
 <video width="1280" height="640" controls>
   <source src="./elegant-kde.mp4" type="video/mp4">
   Your browser does not support the video tag.
