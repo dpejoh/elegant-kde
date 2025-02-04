@@ -1,0 +1,59 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "opensuse_small", // search for logos: fastfetch --list-logos or --print-logos
+        "padding": {
+	        "top": 1
+	},
+    },
+    "display": {
+        "separator": "  "
+    },
+    "modules": [
+	"break",
+	"title",
+        {
+            "type": "os",
+            "key": "OS    ",
+            "keyColor": "33",  // = color3
+        },
+        {
+            "type": "kernel",
+            "key": "Kernel",
+            "keyColor": "33",
+        },
+        {
+            "type": "host",
+            "key": "Host  ",
+            "keyColor": "33",
+        },
+        {
+            "type": "wm",
+            "key": "WM    ",
+            "keyColor": "33",
+        },
+
+        {
+            "type": "packages",
+            "key": "Pkgs  ",
+            "keyColor": "33",  
+        },
+        {
+            "type": "uptime",
+            "key": "Uptime",
+            "keyColor": "33",
+        },
+        {
+            "type": "memory",
+            "key": "Memory",
+            "keyColor": "33",
+        },
+        {
+            "type": "disk",
+            "keyColor": "33",
+        },
+        "break",
+        "colors",
+        "break"
+    ]
+}
